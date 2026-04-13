@@ -60,7 +60,7 @@ There was still overlap in tuition, so the clustering was more strongly based on
 
 ## Comparing different K means Date: 21/02/2026
 
-Created plots for K = 1 to K = 5 to compare how the clustering changed.
+Created plots for aK = 1 to K = 5 to compare how the clustering changed.
 
 What I found:
 As K increased, the data was split into more groups, but the main pattern did not change much. The extra clusters mostly created smaller subgroups.
