@@ -1,15 +1,7 @@
-18.01
-Chose the project, installed a dataset, imported all necessary libraries
-
-20.01
-Cleaned dataset from any NaN values
-
-02.02 
-https://www.kaggle.com/code/abrahamanderson/tutorial-use-of-kmeans-clustering-for-universities/notebook
-
-Name:               Temur Rustamov 
-Student Number:     C00280204
-Module:             Data Science & Machine Learning 2
+# K-means — Clustering for universities
+- Student Name   : Temur Rustamov
+- Student Number : C00280204
+- Module         : Data Science & Machine Learning 2
 
 # Dairy:
 ##  Data loading and first check Date: 02/02/2026

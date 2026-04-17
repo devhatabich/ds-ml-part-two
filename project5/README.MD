@@ -57,4 +57,8 @@ Looped through the test set and updated Keras Precision, Recall and CategoricalA
 Experimented with different embedding sizes and LSTM units and tested whether adding a Dropout layer reduced overfitting on longer runs. As a result, I noticed that the larger LSTM slightly improved recall on the rare classes, while Dropout helped stabilise validation loss.
 
 ### Conclusions Date: 05/04
-Concluded that The Bidirectional LSTM architecture is well-suited to the toxicity classification and observed no overfitting. 
+Concluded that The Bidirectional LSTM architecture is well-suited to the toxicity classification and observed no overfitting.
+
+# References
+- Jigsaw Toxic Comment Classification Challenge (Kaggle):
+https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge
