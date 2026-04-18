@@ -55,7 +55,7 @@ Reviewed accuracy, classification report, and overall results.
 # Findings:
 -  SVM achieves 93-100% accuracy on Iris depending on hyperparameters and the
    train/test split. Both linear and RBF kernels
-   perform well because the classes are (nearly) linearly separable.
+   perform well because the classes are nearly linearly separable.
 - SVM achieves 98-99% accuracy on the Digits dataset with proper tuning. The high dimensionality provides
    enough information for SVM to find effective decision boundaries.
 # Conclusion:
