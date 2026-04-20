@@ -56,6 +56,11 @@ This notebook primarily covers the following topics from the module:
 3. Both networks use convolutional layers showing CNNs
    in both classification and generation contexts.
 
+# Key findings:
+- The GAN successfully learned to generate fashion item images after 20 epochs of training on 60,000 grayscale images. 
+- The generated outputs which is generated_grid.png shows bag/tote-like shapes with visible structural consistency so the model converged on a dominant mode rather than generating diverse clothing categories, which is a classic GAN behavior called mode collapse. 
+- The images are blurry but structurally recognizable, which is expected for a simple DCGAN at 28×28 resolution.
+- The training was healthy overall: discriminator loss settled near 0.7  and generator loss stabilized in the 0.5–0.6 range by the final epochs, indicating a reasonable adversarial balance.
 # Dairy Logging:
 
 ## Loaded the dataset Date: 04/03
